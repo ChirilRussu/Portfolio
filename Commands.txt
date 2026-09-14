@@ -4,3 +4,5 @@ run locally
 
 build - outputs to the sites folder
 	JEKYLL_ENV=production bundle exec jekyll b
+	
+test
